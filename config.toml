@@ -1,0 +1,10 @@
+baseurl = "http://localhost"
+languageCode = "ja"
+title = "My New Hugo Site"
+theme = "angels-ladder"
+
+[Params]
+twitter = "https://twitter.com/foo"
+
+[permalinks]
+articles = "/posts/:slug"
